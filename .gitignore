@@ -1,0 +1,6 @@
+*images
+images/
+
+*/__pycache__
+/processed_images
+/myntradataset
